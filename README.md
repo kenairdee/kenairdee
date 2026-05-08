@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Clinical Intake App
-- 🌱 I’m currently learning MongoDB
-- 👯 I’m looking to collaborate on Clinic AI Tool
-- 📫 How to reach me: 
-- ⚡ Fun fact: I love MMA
+🔭 I’m currently working on a Clinical Intake App
+🌱 I’m currently learning MongoDB
+👯 I’m looking to collaborate on Clinic AI Tool
+📫 How to reach me: 
+⚡ Fun fact: I love MMA
 -->
