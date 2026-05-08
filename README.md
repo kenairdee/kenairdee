@@ -5,6 +5,6 @@
 -->
 - 🔭 I’m currently working on a Clinical Intake App
 - 🌱 I’m currently learning MongoDB
-- 👯 I’m looking to collaborate on Clinic AI Tool
+- 👯 I’m looking to collaborate on Clinical AI Tools
 - 📫 How to reach me: 
 - ⚡ Fun fact: I love MMA
