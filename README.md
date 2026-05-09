@@ -6,4 +6,4 @@ I am JK, and I am interested in anything data science.
 -->
 - 🔭 I’m currently working on a Clinical Intake App
 - 👯 I’m looking to collaborate on Clinical AI Tools
-- ⚡ Fun fact: I love MMA
+- ⚡ Fun fact: I love combat sports
