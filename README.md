@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am JK, and I am interested in anything data science.
 <!--
 **kenairdee/kenairdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
